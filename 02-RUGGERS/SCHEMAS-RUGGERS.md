@@ -1,16 +1,88 @@
-# 🎭 MES RUGGERS IDENTIFIÉS
+# 🎭 SCHÉMAS DES RUGGERS — Base de connaissances
 
-&gt; Ce fichier contient UNIQUEMENT les ruggers que j'ai déjà analysés et validés avec Fproject.
-&gt; Ne pas inventer de types ici — seulement documenter après analyse Fproject.
+> ⚠️ **Ce fichier est la BIBLE.** Claude doit le relire avant chaque classification.
 
 ## 📊 Tableau récapitulatif
 
-| Nom/ID | Type Fproject | Pattern observé | Stratégie utilisée | Status |
-|--------|---------------|-----------------|-------------------|--------|
-| | | | | |
+| Type | Nom | Pattern | Durée typique | Danger | Stratégie |
+|------|-----|---------|---------------|--------|-----------|
+| **A** | Slow Rug | Dump progressif | 24-72h | 🟡 Moyen | Attendre confirmation |
+| **B** | Instant Dump | Dump immédiat block 3-5 | < 1h | 🔴 Élevé | Exit rapide block 3 max |
+| **C** | Honey Pot | Fonds verrouillés | Variable | 🔴 Critique | ÉVITER |
+| **?** | Inconnu | Non classifié | Inconnu | ⚫ Inconnu | Paper trading |
 
-## 📝 Journal
+---
 
-| Date | Token | Rugger | Résultat | Notes |
-|------|-------|--------|----------|-------|
-| | | | | |
+## 🟡 TYPE A — Slow Rug
+
+### Caractéristiques
+- Distribution des tokens : 40-60% chez le dev
+- Liquidity pool : verrouillée 24-48h
+- Volume : croissant puis chute progressive
+- Communauté : active au début, puis silence
+
+### Signaux MCP Fproject
+- [ ] Fonds du dev non retirés immédiatement
+- [ ] Plusieurs wallets liés au dev
+- [ ] Transactions de test avant launch
+
+### Stratégie associée
+→ `03-STRATEGIES/strategie-type-A-v[X].md`
+
+---
+
+## 🔴 TYPE B — Instant Dump
+
+### Caractéristiques
+- Distribution : 70-90% chez le dev
+- Dump : block 3 à block 10
+- Volume : pic immédiat puis crash
+- Pas de communauté
+
+### Signaux MCP Fproject
+- [ ] Fonds du dev prêts à être retirés
+- [ ] Wallet unique ou peu de wallets
+- [ ] Aucune transaction de test
+
+### Stratégie associée
+→ `03-STRATEGIES/strategie-type-B-v[X].md`
+
+---
+
+## 🔴 TYPE C — Honey Pot
+
+### Caractéristiques
+- On peut acheter mais PAS vendre
+- Code malveillant dans le smart contract
+- Prix artificiellement haut
+- Aucune liquidité réelle
+
+### Signaux MCP Fproject
+- [ ] Fonction de vente désactivée
+- [ ] Contract audité = FAIL
+- [ ] Pas de liquidité retirable
+
+### Stratégie associée
+→ **NE PAS TRADER** — Éviter totalement
+
+---
+
+## ⚫ TYPE ? — Inconnu
+
+### Quand classifier ici :
+- Nouveau pattern jamais vu
+- Données MCP Fproject insuffisantes
+- Comportement atypique
+
+### Action
+1. Paper trading obligatoire
+2. Documenter dans `05-ANALYSES/patterns-emergents.md`
+3. Attendre 3-5 cas similaires pour créer un nouveau type
+
+---
+
+## 📝 Journal de classification
+
+| Date | Token | Type initial | Type final | Confiance | Notes |
+|------|-------|-------------|------------|-----------|-------|
+| | | | | | |
