@@ -112,3 +112,6 @@ SESSION COMPLÈTE
 
 ---
 
+Push sur git hub :
+
+Ctrl + P → "Obsidian Git: Commit and push"
