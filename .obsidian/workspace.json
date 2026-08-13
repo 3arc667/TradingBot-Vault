@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-RUGGERS/SCHEMAS-RUGGERS.md",
+                "file": "📊 DASHBOARD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCHEMAS-RUGGERS"
-            }
-          },
-          {
-            "id": "cbdef3d1a1782024",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "📊 DASHBOARD"
             }
           }
         ]
@@ -213,16 +203,16 @@
   },
   "active": "2303232196ee5f14",
   "lastOpenFiles": [
+    "02-RUGGERS/SCHEMAS-RUGGERS.md",
+    "📊 DASHBOARD.md",
+    "99-TEMP/2026-08-13.md",
     "00-SYSTEM/COMMANDES.md",
     "00-SYSTEM/PROMPT-SYSTEM.md",
-    "02-RUGGERS/SCHEMAS-RUGGERS.md",
     "00-SYSTEM/GLOSSAIRE.md",
     "01-CONFIG/config-wallet.md",
     "01-CONFIG/config-securite.md",
     "01-CONFIG/config-mcp-fproject.md",
     "01-CONFIG/config-bot-principale.md",
-    "99-TEMP/2026-08-13.md",
-    "📊 DASHBOARD.md",
     "05-ANALYSES/patterns-emergents.md",
     "05-ANALYSES/correlations.md",
     "05-ANALYSES/analyse-journaliere.md",

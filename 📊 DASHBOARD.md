@@ -2,7 +2,7 @@
 
 ## 🎯 Aujourd'hui
 
-- **Date** : 2026-08-12
+- **Date** : 2026-08-13
 - **PnL jour** : [+$X / -$X / 0]
 - **Trades** : [X]
 - **Winrate** : [X%]
@@ -39,6 +39,6 @@
 
 ## 🧠 Dernières mises à jour
 
-| Date | Fichier | Action |
-|------|---------|--------|
-| | | |
+| Date     | Fichier    | Action   |
+| -------- | ---------- | -------- |
+| 13.08.26 | 02-ruggers | Analyses |
