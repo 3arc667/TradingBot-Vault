@@ -4,12 +4,10 @@
 
 ## 📊 Tableau récapitulatif
 
-| Type | Nom | Pattern | Durée typique | Danger | Stratégie |
-|------|-----|---------|---------------|--------|-----------|
-| **A** | Slow Rug | Dump progressif | 24-72h | 🟡 Moyen | Attendre confirmation |
-| **B** | Instant Dump | Dump immédiat block 3-5 | < 1h | 🔴 Élevé | Exit rapide block 3 max |
-| **C** | Honey Pot | Fonds verrouillés | Variable | 🔴 Critique | ÉVITER |
-| **?** | Inconnu | Non classifié | Inconnu | ⚫ Inconnu | Paper trading |
+| Type | Nom            | Pattern                  | Durée typique | Danger                              | Stratégie        |
+| ---- | -------------- | ------------------------ | ------------- | ----------------------------------- | ---------------- |
+|      | FAX4qRQ…J1aqp  | Multi-token same-address |               | 8 tokens sortis d'une seule adresse | ⛔ REJECT (banni) |
+|      | 241nHsSE…jBny2 | Ring 2-wallets           |               |                                     |                  |
 
 ---
 
@@ -84,5 +82,5 @@
 ## 📝 Journal de classification
 
 | Date | Token | Type initial | Type final | Confiance | Notes |
-|------|-------|-------------|------------|-----------|-------|
-| | | | | | |
+| ---- | ----- | ------------ | ---------- | --------- | ----- |
+|      |       |              |            |           |       |
