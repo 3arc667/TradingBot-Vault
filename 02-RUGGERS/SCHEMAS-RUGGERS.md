@@ -4,10 +4,10 @@
 
 ## 📊 Tableau récapitulatif
 
-| Type | Nom            | Pattern                  | Durée typique | Danger                              | Stratégie        |
-| ---- | -------------- | ------------------------ | ------------- | ----------------------------------- | ---------------- |
-|      | FAX4qRQ…J1aqp  | Multi-token same-address |               | 8 tokens sortis d'une seule adresse | ⛔ REJECT (banni) |
-|      | 241nHsSE…jBny2 | Ring 2-wallets           |               |                                     |                  |
+| Type | Nom            | Pattern                  | Durée typique | Danger                                                         | Stratégie                      |
+| ---- | -------------- | ------------------------ | ------------- | -------------------------------------------------------------- | ------------------------------ |
+|      | FAX4qRQ…J1aqp  | Multi-token same-address |               | 8 tokens sortis d'une seule adresse                            | ⛔ REJECT (banni)               |
+|      | 241nHsSE…jBny2 | Ring 2-wallets           |               | mother-funder non-CEX2 wallets frères alternent les lancements | Aucune⛔ NO GO (funding opaque) |
 
 ---
 
@@ -81,6 +81,7 @@
 
 ## 📝 Journal de classification
 
-| Date | Token | Type initial | Type final | Confiance | Notes |
-| ---- | ----- | ------------ | ---------- | --------- | ----- |
-|      |       |              |            |           |       |
+| Date       | Token | Type initial   | Type final | Confiance                                                                | Notes                                   |
+| ---------- | ----- | -------------- | ---------- | ------------------------------------------------------------------------ | --------------------------------------- |
+| 2026-08-13 | -     | FAX4qRQ…J1aqp  | NO GO      | REJECT Fproject. Multi-token même adresse = banni                        | WR 75% mais rétroviseur, pas prédictif. |
+| 2026-08-13 | -     | 241nHsSE…jBny2 | NO GO      | pas de signature réutilisable,pattern_holds=false. Mother-wallet non-CEX | WR 66% mais source funding non traçable |
