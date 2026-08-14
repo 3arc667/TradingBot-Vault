@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-ANALYSES/analyse-journaliere.md",
+                "file": "01-CONFIG/config-bot-principale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "analyse-journaliere"
+              "title": "config-bot-principale"
             }
           }
         ],
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a05764a1088f9c70",
@@ -232,6 +233,7 @@
   },
   "active": "74a3a14fec90052a",
   "lastOpenFiles": [
+    "05-ANALYSES/analyse-journaliere.md",
     "01-CONFIG/config-bot-principale.md",
     "01-CONFIG/config-wallet.md",
     "01-CONFIG/config-securite.md",
@@ -250,7 +252,6 @@
     "06-ERREURS/erreur-004.md",
     "06-ERREURS/erreur-003.md",
     "06-ERREURS/erreur-002.md",
-    "05-ANALYSES/analyse-journaliere.md",
     "📊 DASHBOARD.md",
     "99-TEMP/2026-08-13.md",
     "00-SYSTEM/GLOSSAIRE.md",
