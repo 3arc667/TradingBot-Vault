@@ -6,14 +6,14 @@ Ton adresse = **très solide**. Score rugger 83, win rate 86%, +$378k PnL réali
 
 Fproject a trouvé **30 wallets similaires** (score 70+), dont **15 à rugger 95** (la note max). Voici les meilleurs :
 
-| Wallet | Score | Tokens | Block-0 | Ring | Status |
-|--------|-------|--------|---------|------|--------|
-| 8C2DSuTZ4Fy3E9h | 95 | 721 bundled | — | 3-link | 🔥 |
-| 6nBCFv8spyVsPwrG | 95 | 649 bundled | — | 3-link | 🔥 |
-| 8JLEWDyq4zZhLC5 | 95 | 2048 bundled | 99.5% | 1-link | ⭐⭐ |
-| BLnA72XN7Jvt5oP | 95 | 2043 bundled | 100% | 1-link | ⭐⭐ |
-| 96w1xzbRQgBEeTa | 95 | 384 bundled | 100% | 1-link | ⭐ |
-| 4f5s927ybxjQc7Q | 95 | 616 bundled | 99.4% | 1-link | ⭐ |
+| Wallet           | Score | Tokens       | Block-0 | Ring   | Status |
+| ---------------- | ----- | ------------ | ------- | ------ | ------ |
+| 8C2DSuTZ4Fy3E9h  | 95    | 721 bundled  | —       | 3-link | 🔥     |
+| 6nBCFv8spyVsPwrG | 95    | 649 bundled  | —       | 3-link | 🔥     |
+| 8JLEWDyq4zZhLC5  | 95    | 2048 bundled | 99.5%   | 1-link | ⭐⭐     |
+| BLnA72XN7Jvt5oP  | 95    | 2043 bundled | 100%    | 1-link | ⭐⭐     |
+| 96w1xzbRQgBEeTa  | 95    | 384 bundled  | 100%    | 1-link | ⭐      |
+| 4f5s927ybxjQc7Q  | 95    | 616 bundled  | 99.4%   | 1-link | ⭐      |
 
 **VER COMMUN :**
 - Tous = funding chain (A→B→C rotation)
