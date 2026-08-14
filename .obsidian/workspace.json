@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-TEMP/Analyse copy trade.md",
+                "file": "05-ANALYSES/analyse-journaliere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analyse copy trade"
+              "title": "analyse-journaliere"
             }
           }
         ],
@@ -232,8 +232,12 @@
   },
   "active": "74a3a14fec90052a",
   "lastOpenFiles": [
-    "99-TEMP/Analyse.md",
+    "01-CONFIG/config-bot-principale.md",
+    "01-CONFIG/config-wallet.md",
+    "01-CONFIG/config-securite.md",
+    "01-CONFIG/config-mcp-fproject.md",
     "99-TEMP/Analyse copy trade.md",
+    "99-TEMP/Analyse.md",
     "05-ANALYSES/patterns-emergents.md",
     "99-TEMP/_test-ecriture.md",
     "00-SYSTEM/PROMPT-SYSTEM.md",
@@ -250,10 +254,6 @@
     "📊 DASHBOARD.md",
     "99-TEMP/2026-08-13.md",
     "00-SYSTEM/GLOSSAIRE.md",
-    "01-CONFIG/config-wallet.md",
-    "01-CONFIG/config-securite.md",
-    "01-CONFIG/config-mcp-fproject.md",
-    "01-CONFIG/config-bot-principale.md",
     "05-ANALYSES/correlations.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base",
