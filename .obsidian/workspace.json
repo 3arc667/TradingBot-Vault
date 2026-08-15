@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-SYSTEM/REGLES-OR.md",
+                "file": "00-SYSTEM/COMMANDES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REGLES-OR"
+              "title": "COMMANDES"
             }
           }
         ],
@@ -260,17 +260,20 @@
   },
   "active": "e6bec51fcac370cf",
   "lastOpenFiles": [
-    "00-SYSTEM/README.md",
-    "00-SYSTEM/PROMPT-SYSTEM.md",
-    "📊 DASHBOARD.md",
+    "00-SYSTEM/GLOSSAIRE.md",
     "00-SYSTEM/COMMANDES.md",
+    "📊 DASHBOARD.md",
+    "06-ERREURS/erreur-005.md",
+    "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
+    "01-CONFIG/config-bot-principale.md",
+    "00-SYSTEM/REGLES-OR.md",
+    "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "99-TEMP/COPYTRADING.md",
     "99-TEMP/test-redemarrage.md",
+    "00-SYSTEM/README.md",
+    "00-SYSTEM/PROMPT-SYSTEM.md",
     "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
-    "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
     "02-RUGGERS/SCHEMAS-RUGGERS.md",
-    "00-SYSTEM/REGLES-OR.md",
-    "00-SYSTEM/GLOSSAIRE.md",
     "07-PERFORMANCE/metriques-mensuelles.md",
     "07-PERFORMANCE/journal-PnL.md",
     "03-STRATEGIES/strategie-copytrade-v1.md",
@@ -283,9 +286,6 @@
     "00-SYSTEM/COMMANDES & PROMPTS — SnipeRugger AI.md",
     "99-TEMP/test-complet.md",
     "01-CONFIG/config-wallet.md",
-    "05-ANALYSES/analyse-journaliere.md",
-    "01-CONFIG/config-mcp-fproject.md",
-    "01-CONFIG/config-bot-principale.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]

@@ -57,6 +57,21 @@ Log manuel E7T1Vs : **8 TP touchés / 9** → même direction que le desk (cible
 - **FAX** (`FAX4qRQ…`) : reste BANNI. 14 tokens sur une adresse dans le log manuel = trigger de ban confirmé. Le journal ne rouvre pas un verdict structurel (erreur-004).
 - **6GKHVwqR** : log manuel 6/7 gagnants, mais desk = coupé (score copy ~0). Petit échantillon manuel = biais de sélection. Coupe maintenue.
 
+## 5bis. Analyse financement des devs (2026-08-15, lead Akeno)
+
+Fouille de 2 devs sniperés par le ring :
+
+| Dev (token) | Financé par | Montant |
+|---|---|---|
+| HB22Qt (DG1Bi) | KuCoin | 7,255542 SOL |
+| SMshZ (3qvr) | Binance HW2 | 5,855502 SOL |
+
+**Constat (confirme l'observation d'Akeno)** : CEX différent à chaque fois, montants précis mais **jamais identiques**. Aucun montant réutilisé → **pas de signature CEX+montant** → pas de tracker Méthode 1 par dev. Tracker le hot wallet CEX = erreur-002.
+
+**Trouvaille clé** : les 2 devs sont liés au **même ring** (BxLm / E7T1Vs / DqTG8k / 2LLHCt / AQVoC). Les devs changent, le ring reste. → **copytrade-ring confirmé comme la bonne méthode**, sniping par dev écarté (nouveau TYPE D dans SCHEMAS-RUGGERS).
+
+**Limite** : la piste de financement n'apporte PAS le chemin de prix → ne débloque pas le backtest bougie (erreur-005). Levier différent.
+
 ## 6. Suite
 - Référence ring = E7T1Vs → strat `03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md` (PAPER).
 - Variante à paper-trader : délai 2s.
