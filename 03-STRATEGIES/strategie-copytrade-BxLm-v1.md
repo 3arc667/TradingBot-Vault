@@ -4,9 +4,9 @@ version: v1
 date_creation: 2026-08-15
 wallet_cible: BxLmrDJaNr9hA35FBGASAhUK74Gs98AyvQXx6HSR1Qft
 methode: copytrade (Method 2)
-statut: 🟡 PAPER — NON ACTIVÉ
-paper_start: null
-paper_end: null
+statut: 🟢 PAPER EN COURS (banc ring)
+paper_start: 2026-08-15T22:15Z
+paper_end: 2026-08-17T22:15Z
 validation_humaine: en attente
 ---
 
