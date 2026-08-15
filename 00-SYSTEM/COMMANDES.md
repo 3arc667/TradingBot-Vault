@@ -317,7 +317,7 @@ plain
 ## 🎯 RÈGLES EN 1 LIGNE
 
 - **150$ max** par trade
-- **-500$ stop** journalier
+- **-250$ stop** journalier
 - **Pas de martingale**
 - **Paper trading 48h** avant vrai argent
 - **Validation humaine** avant tout trade

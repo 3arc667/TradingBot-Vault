@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-SYSTEM/PROMPT-SYSTEM.md",
+                "file": "00-SYSTEM/COMMANDES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROMPT-SYSTEM"
+              "title": "COMMANDES"
             }
           }
         ],
@@ -261,22 +261,23 @@
   "active": "e6bec51fcac370cf",
   "lastOpenFiles": [
     "00-SYSTEM/GLOSSAIRE.md",
+    "00-SYSTEM/README.md",
+    "00-SYSTEM/REGLES-OR.md",
+    "01-CONFIG/config-securite.md",
+    "05-ANALYSES/2026-08-13_analyse-Wallets.md",
+    "05-ANALYSES/2026-08-14_Analyse copy trade.md",
+    "05-ANALYSES/2026-08-15_analyse-BxLm.md",
+    "📊 DASHBOARD.md",
+    "00-SYSTEM/PROMPT-SYSTEM.md",
     "00-SYSTEM/COMMANDES.md",
     "00-SYSTEM/COMMANDES & PROMPTS — SnipeRugger AI.md",
-    "00-SYSTEM/REGLES-OR.md",
-    "00-SYSTEM/README.md",
-    "00-SYSTEM/PROMPT-SYSTEM.md",
     "99-TEMP/test-redemarrage.md",
     "99-TEMP/COPYTRADING.md",
-    "05-ANALYSES/2026-08-13_analyse-Wallets.md",
-    "05-ANALYSES/2026-08-15_analyse-BxLm.md",
     "99-TEMP/test-complet.md",
-    "05-ANALYSES/2026-08-14_Analyse copy trade.md",
     "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
     "03-STRATEGIES/strategie-copytrade-v1.md",
     "01-CONFIG/config-wallet.md",
     "05-ANALYSES/analyse-journaliere.md",
-    "📊 DASHBOARD.md",
     "01-CONFIG/config-mcp-fproject.md",
     "01-CONFIG/config-bot-principale.md",
     "07-PERFORMANCE/journal-PnL.md",
@@ -285,7 +286,6 @@
     "05-ANALYSES/patterns-emergents.md",
     "05-ANALYSES/correlations.md",
     "04-TRADES/2026-08/2026-08-15_trade-test.md",
-    "01-CONFIG/config-securite.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]
