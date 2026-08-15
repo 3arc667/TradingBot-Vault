@@ -1,20 +1,50 @@
 
+# 📋 COMMANDES & PROMPTS — SnipeRugger AI
+
+
+---
+
 🚀 DÉBUT DE SESSION
 ---
 
-SESSION TRADING — DÉMARRAGE
+SESSION TRADING — Démarrage
 
-1. Relis mon vault GitHub :
-   https://raw.githubusercontent.com/3arc667/TradingBot-Vault/main/00-SYSTEM/PROMPT-SYSTEM.md
-   https://raw.githubusercontent.com/3arc667/TradingBot-Vault/main/02-RUGGERS/SCHEMAS-RUGGERS.md
-   https://raw.githubusercontent.com/3arc667/TradingBot-Vault/main/06-ERREURS/erreurs-recurrentes.md
-   https://raw.githubusercontent.com/3arc667/TradingBot-Vault/main/05-ANALYSES/correlations.md
+1. CHARGE LE CERVEAU FPROJECT :
+   - fproject_brain({section:"voice"})
+   - fproject_brain({section:"kernel"})
+   - fproject_brain({section:"smart-core"})
 
-2. Résume mes ruggers connus, mes erreurs, mes corrélations actives.
+2. RELIS MON VAULT via MCP Filesystem :
+   - C:\TradingBot\00-SYSTEM\PROMPT-SYSTEM.md
+   - C:\TradingBot\02-RUGGERS\SCHEMAS-RUGGERS.md
+   - C:\TradingBot\06-ERREURS\erreurs-recurrentes.md
+   - C:\TradingBot\07-PERFORMANCE\journal-PnL.md
 
-3. Qu'est-ce que tu proposes aujourd'hui ?
+3. RÉSUME-MOI :
+   - Mon PnL actuel (journalier/cumulé)
+   - Mes ruggers actifs et leurs configs
+   - Mes erreurs à ne pas répéter
+   - L'état du marché aujourd'hui (volatilité, opportunities)
 
+4. QUE FAISONS-NOUS AUJOURD'HUI ?
+   [Attends ma réponse : analyse token / trouver rugger / portfolio / setup tracker]
    --- 
+
+## ⚡ RACCOURCI ANALYSE WALLET + SIMULATION
+
+ANALYSE WALLET + SIMULATION
+
+Adresse : [ADRESSE]
+
+1. Deep dig Fproject (wallet + qualify + candles)
+2. Config optimale (TP/SL/buy amount)
+3. Simulation sur 20-30 derniers tokens
+4. Verdict GO/NO GO
+5. Écris tout dans le vault
+---
+
+
+
 
 🔍 ANALYSER UN TOKEN/DEV 
 --- 
@@ -107,21 +137,8 @@ Génère la ligne à ajouter dans journal-PnL.md
 Ctrl + P → "Obsidian Git: Commit and push"
 
 ---
-## 🤖 SESSION AVEC ÉCRITURE AUTO
-SESSION TRADING — Écriture automatique activée
-Relis mon vault via MCP Filesystem
-[TA DEMANDE : analyse token / trouver rugger / portfolio]
-Écris TOI-MÊME les conclusions dans le vault :
-Trade → 04-TRADES\
-Erreur → 06-ERREURS\
-Analyse → 05-ANALYSES\
-Stratégie → 03-STRATEGIES\
-PnL → 07-PERFORMANCE\
-Confirme-moi chaque fichier écrit
-Je ferai le commit/push GitHub après
+## 🔍 PROMPT ANALYSE WALLET + SIMULATION
 
----
-🔍 PROMPT ANALYSE WALLET + SIMULATION
 SESSION TRADING — Analyse wallet + simulation
 
 1. CHARGE LE CERVEAU FPROJECT (voice, kernel, smart-core)
@@ -167,3 +184,148 @@ SESSION TRADING — Analyse wallet + simulation
    - GO / NO GO / PAPER TRADING
    - Config exacte à appliquer
    - Risques identifiés
+---
+
+---
+
+## 🚀 DÉBUT DE SESSION (copier-coller)
+
+SESSION TRADING — Démarrage
+CHARGE LE CERVEAU FPROJECT :
+fproject_brain({section:"voice"})
+fproject_brain({section:"kernel"})
+fproject_brain({section:"smart-core"})
+RELIS MON VAULT via MCP Filesystem :
+C:\TradingBot\00-SYSTEM\PROMPT-SYSTEM.md
+C:\TradingBot\02-RUGGERS\SCHEMAS-RUGGERS.md
+C:\TradingBot\06-ERREURS\erreurs-recurrentes.md
+C:\TradingBot\07-PERFORMANCE\journal-PnL.md
+RÉSUME-MOI :
+Mon PnL actuel (journalier/cumulé)
+Mes ruggers actifs et leurs configs
+Mes erreurs à ne pas répéter
+L'état du marché aujourd'hui
+QUE FAISONS-NOUS AUJOURD'HUI ?
+plain
+
+---
+
+## 🔍 ANALYSER UN TOKEN/DEV (copier-coller)
+ANALYSE CE TOKEN/DEV
+Adresse : [METS L'ADRESSE ICI]
+Deep dig Fproject (cex_research ou qualify)
+Type de rugger ?
+Config proposée ?
+GO ou NO GO ?
+Écris l'analyse dans le vault.
+plain
+
+---
+
+## 🎯 TROUVER UN RUGGER (copier-coller)
+TROUVE-MOI UN RUGGER À SNIPE
+Easy Snipe Fproject
+Si trouvé : type, config, GO/NO GO
+Si rien : pourquoi, quoi surveiller
+Écris dans le vault si trouvé.
+plain
+
+---
+
+## 🔍 ANALYSER UN WALLET + SIMULATION (copier-coller)
+ANALYSE WALLET + SIMULATION
+Adresse : [METS L'ADRESSE ICI]
+Deep dig Fproject (wallet + qualify + candles)
+Entry blocks / placement / copytrade_score
+Config optimale (TP/SL/buy amount)
+Simulation sur 20-30 derniers tokens
+Verdict GO/NO GO / PAPER TRADING
+Écris tout dans le vault (analyse + stratégie)
+plain
+
+---
+
+## 💰 PORTFOLIO & SELL (copier-coller)
+ÉTAT DU PORTFOLIO
+Portfolio overview Fproject
+Positions ouvertes — lesquelles sell ?
+PnL actuel
+Stop atteint ?
+Écris la mise à jour PnL dans le vault.
+plain
+
+---
+
+## 📝 ARCHIVER UNE SESSION (copier-coller à la fin)
+ARCHIVE CETTE SESSION
+Écris dans le vault :
+Trade exécuté ? → 04-TRADES\YYYY-MM\YYYY-MM-DD_trade-XXX.md
+Erreur détectée ? → 06-ERREURS\erreur-XXX.md + erreurs-recurrentes.md
+Nouveau rugger/pattern ? → 02-RUGGERS\SCHEMAS-RUGGERS.md
+Stratégie validée ? → 03-STRATEGIES\strategie-[type]-v[X].md
+Analyse approfondie ? → 05-ANALYSES\YYYY-MM-DD_analyse-[token].md
+Màj PnL → 07-PERFORMANCE\journal-PnL.md
+Confirme chaque fichier écrit.
+plain
+
+---
+
+## ❌ ARCHIVER UNE ERREUR (copier-coller)
+ARCHIVE CETTE ERREUR
+Token : [ADRESSE]
+Montant perdu : [$X]
+Description : [QUE S'EST-IL PASSÉ]
+Écris :
+06-ERREURS\erreur-XXX.md
+Màj 06-ERREURS\erreurs-recurrentes.md
+Confirme.
+plain
+
+---
+
+## 📊 MÀJ PNL (copier-coller)
+MÀJ PNL
+Date : [DATE]
+Trades aujourd'hui : [X]
+Gains : [
+X]Pertes:[
+ 
+X]
+PnL jour : [+X/− X]
+Écris dans 07-PERFORMANCE\journal-PnL.md
+plain
+
+---
+
+## ⚡ RACCOURCIS RAPIDES
+
+| Tu veux... | Tu dis... |
+|-----------|-----------|
+| Démarrer | `SESSION TRADING — Démarrage` |
+| Analyser token | `ANALYSE [ADRESSE]` |
+| Analyser wallet | `ANALYSE WALLET [ADRESSE]` |
+| Trouver rugger | `TROUVE-MOI UN RUGGER` |
+| Portfolio | `PORTFOLIO` |
+| Sell | `SELL [TOKEN] [X%]` |
+| Setup tracker | `SETUP TRACKER [ADRESSE]` |
+| Archiver session | `ARCHIVE CETTE SESSION` |
+| Archiver erreur | `ARCHIVE CETTE ERREUR` |
+| Màj PnL | `MÀJ PNL` |
+
+---
+
+## 🎯 RÈGLES EN 1 LIGNE
+
+- **150$ max** par trade
+- **-500$ stop** journalier
+- **Pas de martingale**
+- **Paper trading 48h** avant vrai argent
+- **Validation humaine** avant tout trade
+
+---
+
+> 💡 **Astuce** : Garde ce fichier ouvert dans Obsidian pendant tes sessions.
+🔄 SYNC GITHUB
+N'oublie pas :
+plain
+Ctrl + P → "Obsidian Git: Commit and push"

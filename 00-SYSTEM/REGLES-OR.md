@@ -2,12 +2,12 @@
 
 ## 💰 Gestion du risque
 
-| Règle | Valeur |
-|-------|--------|
-| Position max par trade | **50$ FIXE** |
-| Stop-loss journalier | **-200$** |
-| Stop-loss hebdomadaire | **-500$** |
-| Martingale | **INTERDITE** |
+| Règle                            | Valeur          |
+| -------------------------------- | --------------- |
+| Position max par trade           | **150$ FIXE**   |
+| Stop-loss journalier             | **-250$**       |
+| Stop-loss hebdomadaire           | **-500$**       |
+| Martingale                       | **INTERDITE**   |
 | Paper trading nouvelle stratégie | **48h minimum** |
 
 ## 🤖 Règles Claude
