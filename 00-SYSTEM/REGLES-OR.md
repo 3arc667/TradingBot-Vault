@@ -2,20 +2,21 @@
 
 ## 💰 Gestion du risque
 
-| Règle | Valeur | Pourquoi |
-|-------|--------|----------|
-| Position max par trade | **50$ FIXE** | Empêche l'accumulation de pertes |
-| Stop-loss journalier | **-200$** | Arrêt immédiat du bot |
-| Stop-loss hebdomadaire | **-500$** | Semaine terminée |
-| Martingale | **INTERDITE** | Jamais augmenter après une perte |
-| Paper trading nouvelle stratégie | **48h minimum** | Tester avant vrai argent |
+| Règle | Valeur |
+|-------|--------|
+| Position max par trade | **50$ FIXE** |
+| Stop-loss journalier | **-200$** |
+| Stop-loss hebdomadaire | **-500$** |
+| Martingale | **INTERDITE** |
+| Paper trading nouvelle stratégie | **48h minimum** |
 
 ## 🤖 Règles Claude
 
-1. **Claude analyse, le bot exécute** — Claude ne trade jamais seul
-2. **Validation humaine obligatoire** — Toi tu dis GO ou NO GO
-3. **MCP Fproject OBLIGATOIRE** — Aucune analyse sans outils
-4. **Obsidian mis à jour après CHAQUE action** — Pas de mémoire dans la tête
+1. Claude analyse, le bot Fproject exécute
+2. Validation humaine obligatoire avant tout trade
+3. MCP Fproject OBLIGATOIRE pour l'analyse
+4. Claude écrit dans le vault après CHAQUE action
+5. Zéro hallucination — si pas de données, dire "données manquantes"
 
 ## 🚫 Interdictions
 
@@ -23,12 +24,3 @@
 - ❌ Ne jamais changer la config du bot sans tester
 - ❌ Ne jamais augmenter le montant en cas de tilt
 - ❌ Ne jamais ignorer un stop-loss
-- ❌ Ne jamais laisser Claude décider seul
-
-## ✅ Checklist avant chaque session
-
-- [ ] PnL journalier vérifié (pas de stop atteint ?)
-- [ ] `erreurs-recurrentes.md` relu
-- [ ] `SCHEMAS-RUGGERS.md` à jour
-- [ ] Config bot vérifiée
-- [ ] Mentalité calme (pas de tilt)

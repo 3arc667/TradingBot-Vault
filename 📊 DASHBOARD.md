@@ -2,13 +2,11 @@
 
 ## 🎯 Aujourd'hui
 
-- **Date** : 2026-08-13
+- **Date** : 2026-08-15
 - **PnL jour** : [+$X / -$X / 0]
 - **Trades** : [X]
 - **Winrate** : [X%]
 - **Stop atteint ?** : [OUI / NON]
-
----
 
 ## ⚠️ Alertes
 
@@ -17,15 +15,11 @@
 - [ ] Nouveaux patterns à classifier
 - [ ] Paper trading en cours
 
----
-
 ## 📋 Actions en attente
 
-- [ ] Analyser ce token  : DG1BiazyxA8gL8MY1CbWq5k6ERaoNdkxkasEJZJgpump
 - [ ] 
 - [ ] 
-
----
+- [ ] 
 
 ## 🔗 Accès rapide
 
@@ -35,10 +29,8 @@
 - [[07-PERFORMANCE/journal-PnL|📊 Journal PnL]]
 - [[03-STRATEGIES/strategie-template|📝 Template stratégie]]
 
----
-
 ## 🧠 Dernières mises à jour
 
-| Date     | Fichier    | Action   |
-| -------- | ---------- | -------- |
-| 13.08.26 | 02-ruggers | Analyses |
+| Date | Fichier | Action |
+|------|---------|--------|
+| | | |

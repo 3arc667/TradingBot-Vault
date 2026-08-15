@@ -115,3 +115,18 @@ SESSION COMPLÈTE
 Push sur git hub :
 
 Ctrl + P → "Obsidian Git: Commit and push"
+
+---
+
+## 🤖 SESSION AVEC ÉCRITURE AUTO
+SESSION TRADING — Écriture automatique activée
+Relis mon vault via MCP Filesystem
+[TA DEMANDE : analyse token / trouver rugger / portfolio]
+Écris TOI-MÊME les conclusions dans le vault :
+Trade → 04-TRADES\
+Erreur → 06-ERREURS\
+Analyse → 05-ANALYSES\
+Stratégie → 03-STRATEGIES\
+PnL → 07-PERFORMANCE\
+Confirme-moi chaque fichier écrit
+Je ferai le commit/push GitHub après

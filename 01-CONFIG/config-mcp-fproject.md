@@ -1,28 +1,24 @@
 # 🔌 CONFIGURATION MCP FPROJECT
 
-## 📋 Informations du connecteur
+## 📋 Informations
 
 | Paramètre | Valeur |
 |-----------|--------|
-| Version MCP | |
-| Date d'installation | |
-| Compétences activées | |
+| Version MCP | v2.19 |
+| Connecteur | En ligne (API) |
+| Compétences | Analyse on-chain, historique, corrélations, patterns |
 
 ## 🛠️ Compétences disponibles
 
-| Compétence | Description | Utilisée ? |
-|------------|-------------|------------|
-| Analyse on-chain | | |
-| Historique trades | | |
-| Correlations | | |
-| Patterns ruggers | | |
-| Copytrade | | |
-| Fonds founders | | |
+| Compétence | Utilisée ? |
+|------------|------------|
+| Analyse on-chain | ✅ |
+| Historique trades | ✅ |
+| Corrélations | ✅ |
+| Patterns ruggers | ✅ |
+| Copytrade | ✅ |
+| Fonds founders | ✅ |
 
-## 📝 Notes d'utilisation
-
-[Comment utiliser chaque compétence efficacement]
-
----
-
-> Ce fichier est mis à jour quand le dev Fproject sort une nouvelle version
+## 📝 Notes
+- Claude utilise Fproject IMPÉRATIVEMENT pour toute analyse
+- Ne jamais inventer de données si Fproject ne répond pas

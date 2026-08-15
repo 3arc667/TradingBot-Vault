@@ -1,30 +1,23 @@
 # 📚 README — TradingBot Vault
 
 ## 🎯 Qu'est-ce que ce vault ?
-C'est le cerveau de ton bot de trading. Tout ce que Claude apprend, découvre, ou corrige est écrit ici.
+C'est le cerveau de mon bot de trading. Claude écrit directement ici via MCP Filesystem.
 
-## 📁 Structure rapide
+## 📁 Structure
 
-| Dossier | Contenu |
-|---------|---------|
-| `00-SYSTEM` | Règles, prompt système, glossaire |
-| `01-CONFIG` | Configurations du bot et du wallet |
-| `02-RUGGERS` | Base de données des types de ruggers |
-| `03-STRATEGIES` | Stratégies par type de rugger |
-| `04-TRADES` | Historique de tous les trades |
-| `05-ANALYSES` | Analyses de marché et patterns |
-| `06-ERREURS` | **LE PLUS IMPORTANT** — Erreurs et corrections |
-| `07-PERFORMANCE` | PnL, winrate, métriques |
-| `99-TEMP` | Brouillons (auto-purge) |
+| Dossier | Contenu | Qui écrit ? |
+|---------|---------|-------------|
+| `00-SYSTEM` | Règles, prompts, commandes | Moi (manuel) |
+| `01-CONFIG` | Configurations bot/wallet | Moi (manuel) |
+| `02-RUGGERS` | Types de ruggers identifiés | Claude (auto) |
+| `03-STRATEGIES` | Stratégies validées par rugger | Claude (auto) |
+| `04-TRADES` | Historique de tous les trades | Claude (auto) |
+| `05-ANALYSES` | Analyses détaillées | Claude (auto) |
+| `06-ERREURS` | Erreurs et corrections | Claude (auto) |
+| `07-PERFORMANCE` | PnL, winrate, métriques | Claude (auto) |
+| `99-TEMP` | Brouillons et tests | Claude (auto) |
 
-## 🚀 Comment utiliser ce vault avec Claude
-
-1. **Avant chaque session** : Demande à Claude de relire `00-SYSTEM/PROMPT-SYSTEM.md`
-2. **Pendant la session** : Claude écrit directement dans les dossiers
-3. **Après chaque trade** : Vérifie que Claude a créé la fiche dans `04-TRADES/`
-4. **En cas d'erreur** : Vérifie que Claude a créé `06-ERREURS/erreur-XXX.md`
-
-## ⚠️ Règles d'or
-- **Jamais de clés privées/API ici**
-- **Toujours relire avant de trader**
-- **Documenter chaque erreur**
+## 🚀 Workflow
+1. Je trade avec Fproject
+2. Claude analyse et écrit dans le vault (auto)
+3. Je vérifie et sync sur GitHub (manuel)
