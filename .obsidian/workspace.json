@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-TEMP/COPYTRADING.md",
+                "file": "00-SYSTEM/COMMANDES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COPYTRADING"
+              "title": "COMMANDES"
             }
           }
         ],
@@ -248,13 +248,15 @@
   "lastOpenFiles": [
     "99-TEMP/test-redemarrage.md",
     "99-TEMP/COPYTRADING.md",
+    "05-ANALYSES/2026-08-13_analyse-Wallets.md",
+    "05-ANALYSES/2026-08-15_analyse-BxLm.md",
+    "99-TEMP/test-complet.md",
+    "05-ANALYSES/2026-08-14_Analyse copy trade.md",
+    "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
     "03-STRATEGIES/strategie-copytrade-v1.md",
-    "99-TEMP/Analyse copy trade.md",
     "01-CONFIG/config-wallet.md",
     "05-ANALYSES/analyse-journaliere.md",
-    "99-TEMP/test-complet.md",
     "📊 DASHBOARD.md",
-    "99-TEMP/Analyse.md",
     "01-CONFIG/config-mcp-fproject.md",
     "01-CONFIG/config-bot-principale.md",
     "00-SYSTEM/PROMPT-SYSTEM.md",
@@ -270,8 +272,6 @@
     "01-CONFIG/config-securite.md",
     "03-STRATEGIES/strategie-template.md",
     "06-ERREURS/erreur-004.md",
-    "06-ERREURS/erreur-003.md",
-    "06-ERREURS/erreur-002.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]
