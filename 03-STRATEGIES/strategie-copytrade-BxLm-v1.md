@@ -14,6 +14,8 @@ validation_humaine: en attente
 
 > 🟡 **PAPER — NON ACTIVÉE.** Aucun capital réel. Gate : 48h paper + ≥20 lancements / ≥72h + validation humaine avant tout live.
 
+> ⚠️ **REDONDANT avec E7T1Vs (même ring).** Géométrie d'entrée identique (block-0 99,7%). Copier les deux = 2 buys par lancement. **Référence retenue = E7T1Vs** (voir `strategie-copytrade-E7T1Vs-v1.md`). BxLm = backup équivalent, ne pas activer en parallèle. Réf. analyse : `05-ANALYSES/2026-08-15_analyse-ring-copytrade.md`.
+
 ## Cible
 - Wallet : `BxLmrDJaNr9hA35FBGASAhUK74Gs98AyvQXx6HSR1Qft`
 - Copytrade **ce wallet seul** (pas le ring entier → sinon N buys par lancement).
