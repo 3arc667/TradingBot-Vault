@@ -81,6 +81,34 @@ _MàJ : 2026-08-16 · source : desk Fproject (positions closed) · 0 position ou
 
 ---
 
+## 🔁 Session 2026-08-16 (soir) — closes ring + état trackers réel (SOL $75.24)
+
+> Voir 04-TRADES/2026-08/2026-08-16_trade-001.md pour le détail.
+
+**Nouveaux closes (hors run précédent)** : net ≈ **−0.986 SOL ≈ −$74.2**.
+
+| Token | w04 (B37U) | w01 (8Kh2) |
+| ----- | ---------- | ---------- |
+| $plumbercat | −94% | −100% |
+| $PLUNGER | +14% | −8% |
+| $ActPepe | +35% | — |
+| $DORAIN | −75% | −13% |
+
+### ⚠️ Découvertes (état trackers = source autoritaire)
+1. **Double-buy C1 FERMÉ (soir, après vérif trackers).** w04 (B37U) a coupé son autoBuy sur 3 pertes d'affilée. Reste 1 seul acheteur E7T1Vs = w01. ⚠️ mais w01 = le wallet **sans SL** → risque résiduel à corriger.
+2. **Config live ≠ vault.** Les 2 trackers E7T1Vs qui achètent sont à **TP +33/+35% + sortie MC ~46,5–49,5k**, PAS le 50/120. Le 50/150 étagé est sur le tracker adresse BxLm, **désarmé** (autoBuy off). Le "+50/+120 qui saigne" ne correspond pas à ce qui s'exécute.
+3. **SL incohérent.** Tracker w01 = SL OFF. Tracker w04 = SL −75. Même rugger, deux configs.
+4. **DqTG8k** = observation (autoBuy off), tp33/SL75/MC51250 ; ne partage que 2 tokens avec E7T1Vs → wallet largement indépendant (vérif Akeno confirmée).
+
+### Décisions en attente Akeno (aucune modif faite)
+- ~~Fermer le double-buy~~ ✅ fait. **Poser un SL sur w01** (seul armé, sans stop) = priorité #1.
+- Trancher le TP une fois le fill mesuré (voir 05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md).
+- Lancer le test TSL@40k (05-ANALYSES/2026-08-16_protocole-test-TSL-40k.md).
+
+_MàJ : 2026-08-16 (soir) · source : desk Fproject (positions closed + trackers) · 0 position ouverte_
+
+---
+
 ## 📈 Graphique (manuel ou via Dataview)
 
 ```dataview

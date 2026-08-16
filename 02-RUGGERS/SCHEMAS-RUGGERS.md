@@ -88,10 +88,19 @@
 ### Stratégie associée
 → `03-STRATEGIES/strategie-copytrade-E7T1Vs-v2.md` (LIVE borné — réf unique w04 + SL −75)
 
-### État live (2026-08-16)
-- **E7T1Vs (w04)** : armé, réf unique. Buy 0.4 SOL, délai ~1,5s, TP étagé 50%@+50 / 100%@+120, SL −75, sortie MC 49 500.
-- **BxLm (w01)** : DÉSARMÉ (backup, ne pas réarmer en parallèle → double-buy).
-- **DqTG8k** : out (land-late 72%).
+### État live RÉEL (2026-08-16 soir — corrigé sur trackers, source autoritaire)
+> ⚠️ L'état précédent (« E7T1Vs w04 seul armé, BxLm désarmé ») était FAUX. Photo trackers réelle :
+- **E7T1Vs — double-buy FERMÉ (2026-08-16 soir)** — update trackers :
+  - w04 (B37U) : autoBuy **OFF** (coupé après 3 pertes d'affilée). Garde SL −75 + sortie MC 49,5/55,5k, délai 2s. N'achète plus.
+  - w01 (8Kh2) : autoBuy **ON** — **seul acheteur E7T1Vs**. TP +35% / sortie MC 46 500, délai 1,5s, buy 0.4. ⚠️ **SL OFF** — le wallet encore armé est celui sans stop. À corriger en priorité.
+- **Tracker adresse BxLm** (BxLmrDJa…) : autoBuy OFF (n'achète pas). C'est LUI qui porte le TP étagé 50@+50 / 100@+150 + SL −75 — donc le « 50/120 » du vault ne s'exécute pas.
+- **DqTG8k** : observation (autoBuy OFF), tp33 / SL75 / MC51250, wallet w02 (4g5B). Ne partage que **2 tokens** avec E7T1Vs (lien faible) → **wallet largement indépendant**, pas un jumeau du ring. Rapport profond à finir (analyste occupé 3×).
+
+### À trancher (Akeno) — aucune modif faite
+- ~~Fermer le double-buy~~ ✅ fait (w04 coupé). **Poser un SL sur w01** (seul armé, actuellement sans stop) = priorité #1.
+- TP définitif après mesure du fill (05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md).
+- Test TSL@40k : protocole posé (05-ANALYSES/2026-08-16_protocole-test-TSL-40k.md) — à lancer sur ≥20 closes.
+- Statuer DqTG8k : indépendant → tracker séparé ou out ?
 
 ---
 

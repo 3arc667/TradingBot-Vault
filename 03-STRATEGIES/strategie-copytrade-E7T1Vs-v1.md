@@ -49,3 +49,4 @@ validation_humaine: en attente
 | Version | Date | Changement |
 |---|---|---|
 | v1 | 2026-08-15 | Création — référence du ring, note délai 2s, flag C1, statut PAPER |
+| v1.1 | 2026-08-16 | **Non validée.** Mesure fill 72h (n=46) archivée (05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md) : +50 atteint 80%, +100 52%, +120 43%, pic médian +102% — mais atteignable ≠ rempli. État trackers réel : E7T1Vs copytradé par 2 wallets (double-buy C1 rouvert), config live = TP +33/35 + MC (pas 50/120), w01 sans SL. Blocages ouverts : fermer double-buy, aligner config, poser SL w01, mesurer fill réel (n≥20). Aucune activation propre tant que ces points ne sont pas traités + validation Akeno |

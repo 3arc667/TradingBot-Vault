@@ -8,7 +8,7 @@
 
 | # | Erreur | Date 1ère | Date dernière | Correction | Vérifié |
 |---|--------|-----------|---------------|------------|---------|
-| C1 | Config activée en live sans finir les 48h paper (E7T1Vs) | 2026-08-13 | 2026-08-16 | Gate paper strict ; ordre de bascule seulement après 48h + ≥20 lancements + validation humaine. **2026-08-16 : régularisé** — desk n'a pas de vrai mode paper, dérogation assumée = 1 seul wallet live borné (E7T1Vs w04, SL −75), backup BxLm coupé | ☑ |
+| C1 | Config activée en live sans finir les 48h paper (E7T1Vs) + double-buy | 2026-08-13 | 2026-08-16 | **Double-buy FERMÉ 2026-08-16 (soir)** : w04 (B37U) a coupé son autoBuy (3 pertes d'affilée = maxConsecutiveLosses). Reste **1 seul acheteur E7T1Vs = w01 (8Kh2)**. ⚠️ **RISQUE RÉSIDUEL** : le wallet encore armé (w01) n'a **AUCUN SL** (celui coupé, w04, avait le SL −75). Rug pré-40k sur w01 = −100%. À corriger : poser SL sur w01. Gate paper 48h toujours non tenu (dérogation) | ☐ |
 
 ---
 
@@ -40,3 +40,5 @@
 | 2026-08-16 | C1 | Découvert : E7T1Vs + BxLm tournaient en live sous label paper (double-buy sur le ring). Régularisé : BxLm désarmé, E7T1Vs seul live borné + SL −75. Dérogation actée par Akeno | Écart fermé, dérogation documentée |
 | 2026-08-16 | 6 | Akeno signale que le TP étagé 50/120 saigne. Confirmé : jamais backtesté, 2e tranche hors distribution ring. erreur-006 créée, arbitrage TP en attente | Ouverte |
 | 2026-08-16 | 6 | Mesure fill 72h (n=46) tirée : +120 atteint 43%, pic médian +102% → mon diagnostic « +69 plafond » (6 tokens) était faux, erreur-003 reproduite et corrigée. Vrai blocker = fill réel < atteignable | Corrigé |
+| 2026-08-16 | C1 | État trackers réel lu : double-buy E7T1Vs (w01+w04 autoBuy) TOUJOURS actif ; config live = TP +33/35 + MC (pas 50/120, qui est sur tracker BxLm désarmé) ; w01 sans SL. C1 rouvert, corrections à valider par Akeno | Rouvert |
+| 2026-08-16 | C1 | Akeno a coupé le double-buy (w04 autoBuy off après 3 pertes). Vérifié trackers : 1 seul acheteur E7T1Vs = w01. Mais w01 = celui SANS SL → risque résiduel, SL à poser | Double-buy fermé, SL w01 à faire |
