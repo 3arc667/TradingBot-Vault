@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
+                "file": "00-SYSTEM/COMMANDES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strategie-copytrade-E7T1Vs-v1"
+              "title": "COMMANDES"
             }
           }
         ],
@@ -260,9 +260,10 @@
   },
   "active": "e6bec51fcac370cf",
   "lastOpenFiles": [
+    "07-PERFORMANCE/journal-PnL.md",
+    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
     "07-PERFORMANCE/winrate-par-strategie.md",
     "07-PERFORMANCE/metriques-mensuelles.md",
-    "07-PERFORMANCE/journal-PnL.md",
     "99-TEMP/COPYTRADING.md",
     "99-TEMP/test-redemarrage.md",
     "00-SYSTEM/COMMANDES.md",
@@ -275,7 +276,6 @@
     "05-ANALYSES/2026-08-15_analyse-BxLm.md",
     "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
-    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
     "00-SYSTEM/REGLES-OR.md",
     "06-ERREURS/erreur-003.md",
     "06-ERREURS/erreur-004.md",
