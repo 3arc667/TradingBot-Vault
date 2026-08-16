@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-SYSTEM/COMMANDES.md",
+                "file": "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMMANDES"
+              "title": "strategie-copytrade-BxLm-v1"
             }
           }
         ],
@@ -260,32 +260,32 @@
   },
   "active": "e6bec51fcac370cf",
   "lastOpenFiles": [
-    "00-SYSTEM/GLOSSAIRE.md",
-    "00-SYSTEM/COMMANDES.md",
-    "📊 DASHBOARD.md",
-    "06-ERREURS/erreur-005.md",
-    "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
-    "01-CONFIG/config-bot-principale.md",
+    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
     "00-SYSTEM/REGLES-OR.md",
+    "06-ERREURS/erreur-003.md",
+    "06-ERREURS/erreur-004.md",
+    "06-ERREURS/erreur-005.md",
+    "00-SYSTEM/PROMPT-SYSTEM.md",
+    "00-SYSTEM/COMMANDES.md",
+    "00-SYSTEM/GLOSSAIRE.md",
+    "00-SYSTEM/README.md",
+    "02-RUGGERS/SCHEMAS-RUGGERS.md",
+    "01-CONFIG/config-wallet.md",
+    "01-CONFIG/config-mcp-fproject.md",
+    "01-CONFIG/config-securite.md",
+    "01-CONFIG/config-bot-principale.md",
+    "📊 DASHBOARD.md",
+    "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
     "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "99-TEMP/COPYTRADING.md",
     "99-TEMP/test-redemarrage.md",
-    "00-SYSTEM/README.md",
-    "00-SYSTEM/PROMPT-SYSTEM.md",
-    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
-    "02-RUGGERS/SCHEMAS-RUGGERS.md",
     "07-PERFORMANCE/metriques-mensuelles.md",
     "07-PERFORMANCE/journal-PnL.md",
     "03-STRATEGIES/strategie-copytrade-v1.md",
     "03-STRATEGIES/strategie-template.md",
     "05-ANALYSES/2026-08-15_analyse-ring-copytrade.md",
-    "01-CONFIG/config-securite.md",
     "05-ANALYSES/2026-08-13_analyse-Wallets.md",
     "05-ANALYSES/2026-08-14_Analyse copy trade.md",
-    "05-ANALYSES/2026-08-15_analyse-BxLm.md",
-    "00-SYSTEM/COMMANDES & PROMPTS — SnipeRugger AI.md",
-    "99-TEMP/test-complet.md",
-    "01-CONFIG/config-wallet.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]
