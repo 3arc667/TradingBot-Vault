@@ -57,6 +57,30 @@ _MàJ : 2026-08-15 · source : desk Fproject (portfolio 24h) · 0 position ouver
 
 ---
 
+## 🔁 Run ring E7T1Vs / BxLm — 2026-08-16 (SOL $75.41)
+
+> Collecte live, 2 wallets encore armés au moment du run (avant régularisation C1).
+> w04 = E7T1Vs (entrée ~0.404), w01 = BxLm (entrée ~0.504).
+
+| Token | CA (court) | w04 E7T1Vs | w01 BxLm |
+| ----- | ---------- | ---------- | -------- |
+| $CATU | 679up6… | +69% | +34% |
+| $RM | 3ykPgE… | +59% | +22% |
+| $Dockey | BfafhZ… | +56% | +31% |
+| $FOMOANSEM | 95Csmx… | −12% (auto, sortie molle) | **+24% (close MAIN Akeno)** |
+| $Tonguuue | Eks774… | −100% (rug) | −97% (rug) |
+
+**Lecture à froid :** 6 tokens — 4 verts francs, 1 mixte, 1 rug total.
+- TP étagé E7T1Vs laisse courir (+69/+59/+56) vs BxLm flat (+34/+22/+31).
+- $Tonguuue −100% = donnée normale sur snipe de rugger, PAS un bug. A motivé le SL −75.
+- Close manuelle Akeno sur $FOMOANSEM (w01, +24%) : **notée comme couleur, pas comme mesure** (échantillon = 1, cf. erreur-003). Ne prouve pas main > auto.
+
+**Post-run :** BxLm désarmé, E7T1Vs (w04) seul armé + SL −75 posé. Voir strategie-copytrade-E7T1Vs-v2.md.
+
+_MàJ : 2026-08-16 · source : desk Fproject (positions closed) · 0 position ouverte_
+
+---
+
 ## 📈 Graphique (manuel ou via Dataview)
 
 ```dataview

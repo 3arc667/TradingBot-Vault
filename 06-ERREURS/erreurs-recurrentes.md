@@ -8,7 +8,7 @@
 
 | # | Erreur | Date 1ère | Date dernière | Correction | Vérifié |
 |---|--------|-----------|---------------|------------|---------|
-| C1 | Config activée en live sans finir les 48h paper (E7T1Vs) | 2026-08-13 | 2026-08-15 | Gate paper strict ; ordre de bascule seulement après 48h + ≥20 lancements + validation humaine | ☐ |
+| C1 | Config activée en live sans finir les 48h paper (E7T1Vs) | 2026-08-13 | 2026-08-16 | Gate paper strict ; ordre de bascule seulement après 48h + ≥20 lancements + validation humaine. **2026-08-16 : régularisé** — desk n'a pas de vrai mode paper, dérogation assumée = 1 seul wallet live borné (E7T1Vs w04, SL −75), backup BxLm coupé | ☑ |
 
 ---
 
@@ -36,3 +36,4 @@
 |------|----------|--------|----------|
 | 2026-08-15 | C1 | Refus répété d'activer BxLm/wallet 01 en live ; paper lancé à la place | Ligne tenue |
 | 2026-08-15 | 5 | 2 tokens testés, couverture d'entrée absente → backtest bougie abandonné | Documenté |
+| 2026-08-16 | C1 | Découvert : E7T1Vs + BxLm tournaient en live sous label paper (double-buy sur le ring). Régularisé : BxLm désarmé, E7T1Vs seul live borné + SL −75. Dérogation actée par Akeno | Écart fermé, dérogation documentée |

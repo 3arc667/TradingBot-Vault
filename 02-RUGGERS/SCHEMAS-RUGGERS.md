@@ -86,7 +86,12 @@
 - Validation = paper (fills TP), pas backtest bougie (erreur-005).
 
 ### Stratégie associée
-→ `03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md` (PAPER)
+→ `03-STRATEGIES/strategie-copytrade-E7T1Vs-v2.md` (LIVE borné — réf unique w04 + SL −75)
+
+### État live (2026-08-16)
+- **E7T1Vs (w04)** : armé, réf unique. Buy 0.4 SOL, délai ~1,5s, TP étagé 50%@+50 / 100%@+120, SL −75, sortie MC 49 500.
+- **BxLm (w01)** : DÉSARMÉ (backup, ne pas réarmer en parallèle → double-buy).
+- **DqTG8k** : out (land-late 72%).
 
 ---
 
