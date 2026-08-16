@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-SYSTEM/COMMANDES.md",
+                "file": "00-SYSTEM/REGLES-OR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMMANDES"
+              "title": "REGLES-OR"
             }
           }
         ],
@@ -260,9 +260,9 @@
   },
   "active": "e6bec51fcac370cf",
   "lastOpenFiles": [
+    "00-SYSTEM/COMMANDES.md",
     "05-ANALYSES/2026-08-16_protocole-test-TSL-40k.md",
     "03-STRATEGIES/strategie-copytrade-E7T1Vs-v3.md",
-    "00-SYSTEM/COMMANDES.md",
     "04-TRADES/2026-08/2026-08-16_trade-001.md",
     "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
     "05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md",
