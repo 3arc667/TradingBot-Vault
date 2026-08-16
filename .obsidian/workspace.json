@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📊 DASHBOARD.md",
+                "file": "00-SYSTEM/COMMANDES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📊 DASHBOARD"
+              "title": "COMMANDES"
             }
           }
         ],
@@ -260,13 +260,18 @@
   },
   "active": "e6bec51fcac370cf",
   "lastOpenFiles": [
+    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
+    "05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md",
+    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v2.md",
+    "05-ANALYSES/2026-08-15_analyse-ring-copytrade.md",
+    "05-ANALYSES/2026-08-15_analyse-BxLm.md",
+    "05-ANALYSES/2026-08-16_analyse-DORAIN-et-SL-E7T1Vs.md",
+    "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "00-SYSTEM/COMMANDES.md",
+    "📊 DASHBOARD.md",
     "06-ERREURS/erreur-006.md",
     "00-SYSTEM/PROMPT-SYSTEM.md",
-    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v2.md",
-    "05-ANALYSES/2026-08-16_analyse-DORAIN-et-SL-E7T1Vs.md",
     "07-PERFORMANCE/journal-PnL.md",
-    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
     "07-PERFORMANCE/winrate-par-strategie.md",
     "07-PERFORMANCE/metriques-mensuelles.md",
     "99-TEMP/COPYTRADING.md",
@@ -275,17 +280,12 @@
     "01-CONFIG/config-mcp-fproject.md",
     "01-CONFIG/config-securite.md",
     "01-CONFIG/config-wallet.md",
-    "📊 DASHBOARD.md",
-    "05-ANALYSES/2026-08-15_analyse-BxLm.md",
-    "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "03-STRATEGIES/strategie-copytrade-BxLm-v1.md",
     "00-SYSTEM/REGLES-OR.md",
     "06-ERREURS/erreur-003.md",
     "06-ERREURS/erreur-004.md",
     "06-ERREURS/erreur-005.md",
     "00-SYSTEM/GLOSSAIRE.md",
-    "00-SYSTEM/README.md",
-    "02-RUGGERS/SCHEMAS-RUGGERS.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]
