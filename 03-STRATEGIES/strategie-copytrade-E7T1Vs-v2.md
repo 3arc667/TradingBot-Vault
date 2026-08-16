@@ -15,6 +15,8 @@ remplace: strategie-copytrade-E7T1Vs-v1.md
 
 # Stratégie copytrade — E7T1Vs v2 (référence unique du ring)
 
+> ⛔ **PÉRIMÉ — remplacé par v3 (2026-08-16).** La « config figée 50/120 + SL −75 sur w04 » décrite ici ne correspond PAS aux trackers réels (w04 coupé sur 3 pertes ; w01 seul armé, TP +35/MC, sans SL). Les chiffres « +69 plafond » viennent d'un échantillon de 6 tokens (erreur-006). Voir `strategie-copytrade-E7T1Vs-v3.md`.
+
 > 🟢 **LIVE borné, un seul wallet.** Décision Akeno 2026-08-16 : garder 1 wallet armé pour
 > collecter de la donnée réelle plutôt que repasser en observation (le desk n'a pas de vrai
 > mode paper — voir note ci-dessous). BxLm désarmé le même jour. SL −75 ajouté pour borner.
