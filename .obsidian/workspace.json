@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-STRATEGIES/strategie-copytrade-E7T1Vs-v3.md",
+                "file": "99-TEMP/test-redemarrage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strategie-copytrade-E7T1Vs-v3"
+              "title": "test-redemarrage"
             }
           }
         ],
@@ -260,11 +260,11 @@
   },
   "active": "e6bec51fcac370cf",
   "lastOpenFiles": [
+    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v3.md",
     "02-RUGGERS/SCHEMAS-RUGGERS.md",
     "00-SYSTEM/REGLES-OR.md",
     "00-SYSTEM/COMMANDES.md",
     "05-ANALYSES/2026-08-16_protocole-test-TSL-40k.md",
-    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v3.md",
     "04-TRADES/2026-08/2026-08-16_trade-001.md",
     "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
     "05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md",
