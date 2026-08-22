@@ -10,6 +10,7 @@
 |      | 241nHsSE…jBny2 | Ring 2-wallets            |               | mother-funder non-CEX2 wallets frères alternent les lancements | Aucune⛔ NO GO (funding opaque) |
 |      | AoGefnxF…McMFe | Spam machine mono-adresse |               | 12 tokens en 31h, funding mother non-CEX                       | Aucune	⛔ NO GO (EV négatif)    |
 | D    | Ring E7T1Vs/BxLm/DqTG8k | Copytrade — devs jetables CEX-financés | ~35 MC entrée | devs varient, ring constant ; land-contention | 🟡 COPYTRADE ring (E7T1Vs), PAPER |
+| E    | BJgZGd (coffre) → distributeurs → 1000 wallets | Machine distribution/bundle industrielle | rotation continue | 3 étages jetables, feuilles non-créatrices | ⛔ INTRACKABLE (blindage) |
 
 ---
 
@@ -104,6 +105,30 @@
 
 ---
 
+## ⚫ TYPE E — Machine de distribution / bundle industrielle (intrackable)
+
+### Caractéristiques
+- Structure à 3 étages, tous jetables : **coffre** (agrège le bénéf du ring) → **distributeurs** (200–800 SOL, tournent) → **1000+ wallets frais** (1–5 SOL chacun).
+- Les feuilles **ne créent AUCUN token** (bundle/makers ou dispatch, pas des launchers).
+- Volume massif et rapide : ex. 1 distributeur = 1000 wallets armés + 2 543 SOL en 1h20.
+- Chaque étage jetable = conçu pour être **intrackable**.
+
+### Test de tri (réflexe)
+- Le fric qui **REMONTE** vers un gros wallet qui agrège = cash-out. **Jamais un tracker.**
+- Le fric qui **DESCEND** vers des wallets frais **QUI LANCENT** = mère trackable.
+- Question unique : *les enfants créent-ils des tokens ?* Non → intrackable, on lâche.
+
+### Cas confirmé (2026-08-22)
+- Coffre BJgZGd (885+) → 63 distributeurs (paires ~750+~200/250) → distributeur 8txZUG
+  arme 1000 feuilles (2 543 SOL / 1h20), feuilles = 0 token créé.
+- Seul maillon actionnable = le **top-trader source (8tfUh)**, en copytrade Method 2.
+- Détail : `05-ANALYSES/2026-08-22_analyse-ring-bundle-BJgZGd.md`
+
+### Stratégie associée
+→ ⛔ Pas de tracker sur le ring. Remonter au trader source prouvé et le qualifier en copy.
+
+---
+
 ## ⚫ TYPE ? — Inconnu
 
 ### Quand classifier ici :
@@ -126,3 +151,4 @@
 | 2026-08-13 | -     | 241nHsSE…jBny2 | NO GO      | pas de signature réutilisable,pattern_holds=false. Mother-wallet non-CEX | WR 66% mais source funding non traçable  |
 | 2026-08-13 | -     | AoGefnxF…McMFe | NO GO      | 2 winners masquent 7 morts (survivor bias).                              | EV −2,2%, WR 41,7%. Spam 12 tokens/31h.  |
 | 2026-08-15 | -     | Ring E7T1Vs/BxLm/DqTG8k | TYPE D — COPYTRADE ring (PAPER) | Block-0 99,7% (E7T1Vs/BxLm) ; DqTG8k 72% out | Devs CEX-financés varié, pas de tracker/dev. Copytrade-ring confirmé. |
+| 2026-08-22 | -     | Ring BJgZGd (coffre) | TYPE E — INTRACKABLE | Feuilles 0 token créé ; 3 étages jetables | Distribution/bundle industrielle. Seul actionnable = trader source 8tfUh (copy). |

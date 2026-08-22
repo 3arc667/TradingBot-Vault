@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-TEMP/21.08 analyse.md",
+                "file": "99-TEMP/22.08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21.08 analyse"
+              "title": "22.08"
             }
           }
         ],
@@ -316,8 +316,10 @@
   },
   "active": "75a3826caf97b72e",
   "lastOpenFiles": [
-    "99-TEMP/22.08.md",
+    "05-ANALYSES/2026-08-22_analyse-ring-bundle-BJgZGd.md",
+    "05-ANALYSES/2026-08-22_analyse-devs-usine-gVDX-AoGef.md",
     "99-TEMP/21.08 analyse.md",
+    "99-TEMP/22.08.md",
     "99-TEMP/22.08 analyse2.md",
     "99-TEMP/COPYTRADING.md",
     "99-TEMP/PRESET CONFIGUE.md",
@@ -340,8 +342,6 @@
     "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "📊 DASHBOARD.md",
     "00-SYSTEM/PROMPT-SYSTEM.md",
-    "07-PERFORMANCE/journal-PnL.md",
-    "07-PERFORMANCE/winrate-par-strategie.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]
