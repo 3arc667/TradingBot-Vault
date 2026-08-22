@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-PERFORMANCE/winrate-par-strategie.md",
+                "file": "99-TEMP/PRESET CONFIGUE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winrate-par-strategie"
+              "title": "PRESET CONFIGUE"
             }
           }
         ],
@@ -387,33 +387,33 @@
   "active": "c24245d1a5af92aa",
   "lastOpenFiles": [
     "99-TEMP/COPYTRADING.md",
-    "05-ANALYSES/2026-08-22_analyse-ring-bundle-BJgZGd.md",
-    "05-ANALYSES/analyse-journaliere.md",
-    "05-ANALYSES/2026-08-14_Analyse copy trade.md",
-    "05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md",
     "03-STRATEGIES/strategie-copytrade-E7T1Vs-v3.md",
     "03-STRATEGIES/strategie-copytrade-v1.md",
+    "05-ANALYSES/2026-08-16_analyse-DORAIN-et-SL-E7T1Vs.md",
+    "05-ANALYSES/2026-08-22_analyse-signature-binance-3989.md",
+    "05-ANALYSES/2026-08-22_analyse-ring-bundle-BJgZGd.md",
+    "05-ANALYSES/analyse-journaliere.md",
+    "99-TEMP/PRESET CONFIGUE.md",
+    "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
+    "05-ANALYSES/2026-08-15_analyse-BxLm.md",
+    "05-ANALYSES/2026-08-15_analyse-ring-copytrade.md",
+    "05-ANALYSES/2026-08-14_Analyse copy trade.md",
+    "05-ANALYSES/2026-08-13_analyse-Wallets.md",
+    "03-STRATEGIES/strategie-template.md",
+    "07-PERFORMANCE/winrate-par-strategie.md",
+    "05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md",
     "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
     "07-PERFORMANCE/journal-PnL.md",
     "07-PERFORMANCE/metriques-mensuelles.md",
-    "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "EXCHANGE/Gate exchange G9F.md",
     "EXCHANGE/BITGAT HOT WALLET/Exchange wallet A77HE.md",
     "EXCHANGE/BITGAT HOT WALLET/EL8bhbm1C2ifh8xagRy51tasSgj2umefj1vM8ThLS8Kv.md",
     "EXCHANGE/BITGAT HOT WALLET",
     "EXCHANGE/iGdFc Bybit.md",
     "EXCHANGE/Hub binance 3.989.md",
-    "99-TEMP/PRESET CONFIGUE.md",
     "99-TEMP/22.08.md",
     "99-TEMP/22.08 analyse2.md",
     "EXCHANGE",
-    "05-ANALYSES/2026-08-22_analyse-signature-binance-3989.md",
-    "05-ANALYSES/2026-08-22_analyse-copy-GDQeTnqk.md",
-    "05-ANALYSES/2026-08-22_analyse-devs-usine-gVDX-AoGef.md",
-    "99-TEMP/21.08 analyse.md",
-    "99-TEMP/test-redemarrage.md",
-    "06-ERREURS/erreur-006.md",
-    "06-ERREURS/erreur-template.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]
