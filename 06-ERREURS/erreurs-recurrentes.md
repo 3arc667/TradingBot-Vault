@@ -28,6 +28,7 @@
 |---|--------|-----------|---------------|------------|---------|
 | 3 | Petit échantillon manuel traité comme backtest (biais de sélection) | 2026-08-13 | 2026-08-15 | Journal manuel = couleur, pas mesure ; mesure = desk/paper | ☐ |
 | 7 | Verdict desk "dead/stale / n=0" pris pour argent comptant sur un wallet ACTIF (GDQeTnqk : +54 SOL / 9j, 1000 swaps) — trou d'index Terminal | 2026-08-22 | 2026-08-22 | "dead/stale" du desk ≠ inactif. Vérifier l'export DeFi on-chain (Solscan) avant de classer un wallet mort | ☐ |
+| 8 | Signature CEX déclarée "confirmée / tracker candidat" sur 2 launches gagnants (3.989) — survivor bias. CSV complet : 3.989 = 92,7% des sorties du wallet, 881 dest./2mois, ~50% dump (profil AoGef) | 2026-08-22 | 2026-08-22 | Hair-thin ne vaut que si le montant est RARE : compter les destinataires dans le CSV avant de valider une signature. Échantillon réparti (pas 2 tokens choisis) avant tout verdict tracker | ☐ |
 | 5 | Backtest bougie relancé alors que l'outil ne remonte pas jusqu'à l'entrée | 2026-08-15 | 2026-08-15 | Ne pas relancer à l'aveugle ; fills TP mesurés en paper (voir erreur-005.md) | ☐ |
 
 ---
@@ -44,3 +45,4 @@
 | 2026-08-16 | C1 | État trackers réel lu : double-buy E7T1Vs (w01+w04 autoBuy) TOUJOURS actif ; config live = TP +33/35 + MC (pas 50/120, qui est sur tracker BxLm désarmé) ; w01 sans SL. C1 rouvert, corrections à valider par Akeno | Rouvert |
 | 2026-08-16 | C1 | Akeno a coupé le double-buy (w04 autoBuy off après 3 pertes). Vérifié trackers : 1 seul acheteur E7T1Vs = w01. Mais w01 = celui SANS SL → risque résiduel, SL à poser | Double-buy fermé, SL w01 à faire |
 | 2026-08-22 | 7 | GDQeTnqk qualifié "dead/stale" par le desk ; export on-chain fourni par Akeno → wallet très actif (63,5% WR, +54 SOL/9j). Analyse refaite sur CSV | Corrigé ; réflexe CSV-avant-verdict-mort acté |
+| 2026-08-22 | 8 | Plage 3.989 vendue comme "tracker confirmé" sur 2 winners ; Akeno signale des instant-rugs ; CSV + échantillon 8 wallets → ~50% dump, 3.989 = montant standard (881 dest.). Rétrogradée en REJET (à plat) | Corrigé ; survivor bias reconnu, filtre anti-rug + paper requis |

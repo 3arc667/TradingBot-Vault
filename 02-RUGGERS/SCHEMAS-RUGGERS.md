@@ -11,6 +11,7 @@
 |      | AoGefnxF…McMFe | Spam machine mono-adresse |               | 12 tokens en 31h, funding mother non-CEX                       | Aucune	⛔ NO GO (EV négatif)    |
 | D    | Ring E7T1Vs/BxLm/DqTG8k | Copytrade — devs jetables CEX-financés | ~35 MC entrée | devs varient, ring constant ; land-contention | 🟡 COPYTRADE ring (E7T1Vs), PAPER |
 | E    | BJgZGd (coffre) → distributeurs → 1000 wallets | Machine distribution/bundle industrielle | rotation continue | 3 étages jetables, feuilles non-créatrices | ⛔ INTRACKABLE (blindage) |
+| B★   | Binance 5tzFki + 3.989 | 3.989 = montant standard (92,7% sorties, 881 dest./2mois) ; usine à launches | ~15/j | ~50% DUMP (profil AoGef) ; runners jusqu'à 43k | 🔴 PAS un tracker propre — snipe à plat NON ; filtre anti-rug + PAPER seulement |
 
 ---
 
@@ -152,3 +153,4 @@
 | 2026-08-13 | -     | AoGefnxF…McMFe | NO GO      | 2 winners masquent 7 morts (survivor bias).                              | EV −2,2%, WR 41,7%. Spam 12 tokens/31h.  |
 | 2026-08-15 | -     | Ring E7T1Vs/BxLm/DqTG8k | TYPE D — COPYTRADE ring (PAPER) | Block-0 99,7% (E7T1Vs/BxLm) ; DqTG8k 72% out | Devs CEX-financés varié, pas de tracker/dev. Copytrade-ring confirmé. |
 | 2026-08-22 | -     | Ring BJgZGd (coffre) | TYPE E — INTRACKABLE | Feuilles 0 token créé ; 3 étages jetables | Distribution/bundle industrielle. Seul actionnable = trader source 8tfUh (copy). |
+| 2026-08-22 | POSSWACK | Signature Binance 5tzFki/3.989 | 🔴 REJET tracker propre (à plat) | 3.989 = 92,7% des sorties, 881 dest./2mois ; sample 10 tokens ~50% dump | Usine à launches mais profil AoGef (pile ou face). "2/2 winners" = survivor bias (erreur-008). Filtre anti-rug + PAPER seulement. Voir 05-ANALYSES/2026-08-22_analyse-signature-binance-3989.md |
