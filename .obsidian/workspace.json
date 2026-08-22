@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-TEMP/Binance2.md",
+                "file": "99-TEMP/22.08 analyse2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binance2"
+              "title": "22.08 analyse2"
             }
           }
         ],
@@ -400,10 +400,18 @@
   },
   "active": "cc16f18bd4e71d32",
   "lastOpenFiles": [
+    "05-ANALYSES/2026-08-22_analyse-hub-5ARip.md",
+    "99-TEMP/21.08 analyse.md",
+    "EXCHANGE/Gate exchange G9F.md",
+    "EXCHANGE/BITGAT HOT WALLET/EL8bhbm1C2ifh8xagRy51tasSgj2umefj1vM8ThLS8Kv.md",
+    "EXCHANGE/iGdFc Bybit.md",
     "EXCHANGE/binance 3.989.md",
+    "EXCHANGE/BITGAT HOT WALLET/Exchange wallet A77HE.md",
+    "99-TEMP/COPYTRADING.md",
+    "99-TEMP/22.08.md",
+    "99-TEMP/22.08 analyse2.md",
     "99-TEMP/Binance2.md",
     "99-TEMP/PRESET CONFIGUE.md",
-    "99-TEMP/COPYTRADING.md",
     "03-STRATEGIES/strategie-copytrade-E7T1Vs-v3.md",
     "03-STRATEGIES/strategie-copytrade-v1.md",
     "05-ANALYSES/2026-08-16_analyse-DORAIN-et-SL-E7T1Vs.md",
@@ -418,15 +426,7 @@
     "03-STRATEGIES/strategie-template.md",
     "07-PERFORMANCE/winrate-par-strategie.md",
     "05-ANALYSES/2026-08-16_analyse-fill-E7T1Vs.md",
-    "03-STRATEGIES/strategie-copytrade-E7T1Vs-v1.md",
-    "07-PERFORMANCE/journal-PnL.md",
-    "07-PERFORMANCE/metriques-mensuelles.md",
-    "EXCHANGE/Gate exchange G9F.md",
-    "EXCHANGE/BITGAT HOT WALLET/Exchange wallet A77HE.md",
-    "EXCHANGE/BITGAT HOT WALLET/EL8bhbm1C2ifh8xagRy51tasSgj2umefj1vM8ThLS8Kv.md",
     "EXCHANGE/BITGAT HOT WALLET",
-    "EXCHANGE/iGdFc Bybit.md",
-    "99-TEMP/22.08.md",
     "EXCHANGE",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
