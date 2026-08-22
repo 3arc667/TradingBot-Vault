@@ -125,16 +125,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-TEMP/22.08 analyse2.md",
+                "file": "99-TEMP/PRESET CONFIGUE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.08 analyse2"
+              "title": "PRESET CONFIGUE"
+            }
+          },
+          {
+            "id": "f4e3e2c1bc53145b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-TEMP/Hub binance 3.989.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hub binance 3.989"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -314,17 +328,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75a3826caf97b72e",
+  "active": "f4e3e2c1bc53145b",
   "lastOpenFiles": [
+    "99-TEMP/PRESET CONFIGUE.md",
+    "99-TEMP/Hub binance 3.989.md",
+    "99-TEMP/22.08 analyse2.md",
     "99-TEMP/22.08.md",
     "05-ANALYSES/2026-08-22_analyse-signature-binance-3989.md",
     "05-ANALYSES/2026-08-22_analyse-copy-GDQeTnqk.md",
     "05-ANALYSES/2026-08-22_analyse-ring-bundle-BJgZGd.md",
     "05-ANALYSES/2026-08-22_analyse-devs-usine-gVDX-AoGef.md",
     "99-TEMP/21.08 analyse.md",
-    "99-TEMP/22.08 analyse2.md",
     "99-TEMP/COPYTRADING.md",
-    "99-TEMP/PRESET CONFIGUE.md",
     "99-TEMP/test-redemarrage.md",
     "06-ERREURS/erreur-006.md",
     "06-ERREURS/erreur-template.md",
@@ -341,7 +356,6 @@
     "05-ANALYSES/2026-08-15_analyse-ring-copytrade.md",
     "05-ANALYSES/2026-08-15_analyse-BxLm.md",
     "05-ANALYSES/2026-08-16_analyse-DORAIN-et-SL-E7T1Vs.md",
-    "08-PAPERTRADING/paper-BxLm-ring-2026-08-15.md",
     "99-TEMP/Untitled.base",
     "99-TEMP/Untitled 1.base"
   ]
