@@ -40,7 +40,19 @@ Son bénéf (10 SOL) descend : 8tfUh -> 6WrPVUtPEADqY1rcdWjmwkwC5jPc6zoXnjgnKdQF
   une trésorerie 885+). Candidat **copytrade Method 2** (qualifier sur géométrie d'entrée,
   pas sur les ventes). => à qualifier.
 
+> **MAJ 2026-08-22 : 8tfUh qualifié -> REJECT (dead/stale, aucun échantillon d'entrée).**
+> Bilan session : ring intrackable de bout en bout, y compris le trader source. **Aucun tracker sorti.**
+> Successeur actif de 8tfUh non cherché (option ouverte via wallets liés).
+
 ## Prochaines actions
-- [ ] Qualifier 8tfUh en copytrade (Block 0 share, cadence, entry median)
-- [ ] Si une CA "achetée en meute" par les feuilles est fournie -> confirmer bundle en 1 check
+- [x] Qualifier 8tfUh en copytrade (Block 0 share, cadence, entry median) -> **REJECT : wallet dead/stale, 0 échantillon d'entrée, funding intrackable. Rien de vivant à copier.**
+- [x] Si une CA "achetée en meute" par les feuilles est fournie -> confirmer bundle en 1 check
 - [ ] Ne PAS armer de tracker sur BJgZGd / 8txZUG / feuilles (intrackable)
+- [ ] Corrélation sur ≥2 tokens du ring -> trouver le bundleur récurrent (= référence copytrade type D)
+
+## Confirmation bundle (2026-08-22)
+- Token cible capturé : **DYa7Rcnsy3XoYwh1ZLseMdcAQjBE92pQe4enpYDNpump** (dev 9V11BG…, funder non résolu).
+- **bundled_pct = 72%**, health 40. Première bougie ~**148 000$ MC** -> **actuel ~2 137$** (dump ~98%, cadavre).
+- Chemin : feuille fraîche -> tuyau -> **25mSbiMX** (25mSbiMX5TH8TpmvC9X5tYRoiUaki1wLUNg6gzB1A8Xa) = acheteur bundle confirmé dans le rapport.
+- Bundleurs block-0 notables (candidats récurrents à corréler) : ATyDud (79,7 SOL), LsqSVN (24 SOL), AZ1gu7 (30 SOL), G2KKD (15 SOL).
+- => Boucle TYPE E prouvée : arme 1000 feuilles -> bundle token neuf 72% -> spike -> dump. Confirme aussi "buy-the-dip mort" quand bundle ≥~70%.

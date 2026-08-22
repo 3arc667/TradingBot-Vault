@@ -27,6 +27,7 @@
 | # | Erreur | Date 1ère | Date dernière | Correction | Vérifié |
 |---|--------|-----------|---------------|------------|---------|
 | 3 | Petit échantillon manuel traité comme backtest (biais de sélection) | 2026-08-13 | 2026-08-15 | Journal manuel = couleur, pas mesure ; mesure = desk/paper | ☐ |
+| 7 | Verdict desk "dead/stale / n=0" pris pour argent comptant sur un wallet ACTIF (GDQeTnqk : +54 SOL / 9j, 1000 swaps) — trou d'index Terminal | 2026-08-22 | 2026-08-22 | "dead/stale" du desk ≠ inactif. Vérifier l'export DeFi on-chain (Solscan) avant de classer un wallet mort | ☐ |
 | 5 | Backtest bougie relancé alors que l'outil ne remonte pas jusqu'à l'entrée | 2026-08-15 | 2026-08-15 | Ne pas relancer à l'aveugle ; fills TP mesurés en paper (voir erreur-005.md) | ☐ |
 
 ---
@@ -42,3 +43,4 @@
 | 2026-08-16 | 6 | Mesure fill 72h (n=46) tirée : +120 atteint 43%, pic médian +102% → mon diagnostic « +69 plafond » (6 tokens) était faux, erreur-003 reproduite et corrigée. Vrai blocker = fill réel < atteignable | Corrigé |
 | 2026-08-16 | C1 | État trackers réel lu : double-buy E7T1Vs (w01+w04 autoBuy) TOUJOURS actif ; config live = TP +33/35 + MC (pas 50/120, qui est sur tracker BxLm désarmé) ; w01 sans SL. C1 rouvert, corrections à valider par Akeno | Rouvert |
 | 2026-08-16 | C1 | Akeno a coupé le double-buy (w04 autoBuy off après 3 pertes). Vérifié trackers : 1 seul acheteur E7T1Vs = w01. Mais w01 = celui SANS SL → risque résiduel, SL à poser | Double-buy fermé, SL w01 à faire |
+| 2026-08-22 | 7 | GDQeTnqk qualifié "dead/stale" par le desk ; export on-chain fourni par Akeno → wallet très actif (63,5% WR, +54 SOL/9j). Analyse refaite sur CSV | Corrigé ; réflexe CSV-avant-verdict-mort acté |
